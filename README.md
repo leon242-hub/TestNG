@@ -4,6 +4,10 @@
      1. Mieć wszystko w jednej klasie
      2. Albo rozszerzyć klase z ktora ma metodę z adnotacją @BeforeTest
      3. Albo odpalić z testng.xml -> ale tutaj będzie działać tylko @BeforeTest i @BeforeSuite
+     4. Albo stworzyć odpowiednią strukturę katalogów:
+
+     ![image](https://github.com/leon242-hub/TestNG/assets/60646450/82512f0a-460d-4e32-b9de-342839bb3c47)
+
 
 
 
